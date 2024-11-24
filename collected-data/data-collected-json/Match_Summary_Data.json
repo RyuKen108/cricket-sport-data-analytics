@@ -1,4 +1,5 @@
-{
+[
+    {
     "matchSummary": [
         {
             "team1": "England",
@@ -379,4 +380,5 @@
             "scorecard": "T20I # 1823"
         }
     ]
-}
+    }
+]
