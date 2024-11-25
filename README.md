@@ -1,4 +1,4 @@
-# Cricket-Data-Analytics
+# Cricket-sport-Data-Analytics
 Performing data analytics on a famous sports game called cricket t20 format
 
 In this Project I have analyzed the data on the famous sport called Cricket. I have done this project using web scrapping, python, pandas and power BI.
